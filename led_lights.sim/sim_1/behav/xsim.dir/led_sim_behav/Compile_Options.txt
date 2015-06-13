@@ -1,0 +1,1 @@
+--debug "typical" --relax -L "work" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "led_sim_behav" --prj "D:/Xilinx_workspace/led_lights/led_lights.sim/sim_1/behav/led_sim.prj" "work.led_sim" "work.glbl" 

@@ -1,0 +1,3 @@
+Running: xsim.dir/led_sim_behav/xsimk.exe -simmode gui -wdb led_sim_behav.wdb -simrunnum 0 -socket 50470
+Design successfully loaded
+Design Loading CPU Usage: 77 ms

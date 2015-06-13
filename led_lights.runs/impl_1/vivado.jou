@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2013.4 (64-bit)
+# SW Build 353583 on Mon Dec  9 17:49:19 MST 2013
+# IP Build 208076 on Mon Dec  2 12:38:17 MST 2013
+# Start of session at: Fri Sep 12 18:35:35 2014
+# Process ID: 5480
+# Log file: D:/Xilinx_workspace/led_lights/led_lights.runs/impl_1/led_lights.rdi
+# Journal file: D:/Xilinx_workspace/led_lights/led_lights.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source led_lights.tcl -notrace
